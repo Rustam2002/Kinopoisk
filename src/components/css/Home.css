@@ -1,0 +1,77 @@
+.header{
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.Favorite{
+    text-align: right;
+    top: 0;
+    right: 0;
+    position: absolute;
+    background-image: url(../../assets/img/start.jpg);
+    width: 80%;
+    height: 100%;
+    background-size:cover;
+    background-position: bottom left;
+    z-index: 1;
+}
+.info{
+    position: absolute;
+    top: 0;
+    color:white;
+    left: 0;
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #000000,#000000,#000000b8,#00000000, #43434300);
+}
+.info__block{
+    width:630px;
+    padding: 70px 60px;
+}
+.info__text img{
+    width: 400px;
+}
+.info__text p{
+    padding-top: 50px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.info__button{
+    padding-top: 50px;
+}
+.info__button button{
+    background-color: #1f1f1f;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 13px 18px;
+    border-radius: 7px;
+    margin-right: 10px;
+}
+.info__button img{
+    width: 13px;
+}
+.info__button_film{
+    padding: 13px 25px !important;
+    background-color: #f50 !important;
+}
+.Films_main_block h1{
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+.Films_main_block{
+    padding: 20px 50px;
+    background-color: #141414;
+    color: white;
+}
+.Movie_like{
+    width: 100%;
+    overflow: scroll;
+    height: 400px;
+    display: flex;
+    
+}
+.Movie_like::-webkit-scrollbar{
+    width: 0;
+}
