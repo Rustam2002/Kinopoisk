@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kinopoisk/static/css/main.0d9789b5.css",
+    "main.js": "/Kinopoisk/static/js/main.db82f32c.js",
+    "static/media/start.jpg": "/Kinopoisk/static/media/start.e6ca09cb9386ba1c5920.jpg",
+    "static/media/zagolovok.webp": "/Kinopoisk/static/media/zagolovok.8131ae334ba3b83e664d.webp",
+    "static/media/gears.svg": "/Kinopoisk/static/media/gears.4a78dbcdc354ba0bfe7b2ad41bca38ad.svg",
+    "static/media/first.svg": "/Kinopoisk/static/media/first.8a55b21f17590b71799129557fad8468.svg",
+    "static/media/logo.svg": "/Kinopoisk/static/media/logo.1bdc828aa9af22921dfb1d29f1d76e99.svg",
+    "static/media/third.svg": "/Kinopoisk/static/media/third.382e66e02b66775f3511fdaab0dd066f.svg",
+    "static/media/example.svg": "/Kinopoisk/static/media/example.355bc24a9076c98fc0df463cbfc6e6cb.svg",
+    "static/media/play.svg": "/Kinopoisk/static/media/play.b6559f449941855e438f5f6eaeaaed8a.svg",
+    "static/media/second.svg": "/Kinopoisk/static/media/second.3d142140ee0bf96bafec05fce38f1a7a.svg",
+    "index.html": "/Kinopoisk/index.html",
+    "static/media/search.svg": "/Kinopoisk/static/media/search.ba1b1bfda8de3abcbf676a7f0aca25e3.svg",
+    "static/media/tiktok.svg": "/Kinopoisk/static/media/tiktok.fdccbf8ebffb4405a60f97b6453b2ca1.svg",
+    "static/media/mark.svg": "/Kinopoisk/static/media/mark.01721b9aa92e20a5e0a24f26ca6fd201.svg",
+    "main.0d9789b5.css.map": "/Kinopoisk/static/css/main.0d9789b5.css.map",
+    "main.db82f32c.js.map": "/Kinopoisk/static/js/main.db82f32c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9789b5.css",
+    "static/js/main.db82f32c.js"
+  ]
+}
